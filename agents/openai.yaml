@@ -1,0 +1,4 @@
+interface:
+  display_name: "DV M3 Design System"
+  short_description: "Material 3 UI rules, tokens, and app-wide rebuilds."
+  default_prompt: "Use DV M3 Design System to first ask for a rebuild mode and coverage scope, then rebuild UI with Material 3 tokens, components, Figma kit mappings, accessibility, adaptive layouts, and shared-component reuse."
