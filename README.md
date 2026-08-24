@@ -116,7 +116,3 @@ agents/openai.yaml                        Codex 展示信息
 references/design-system.md               完整 M3 设计系统与 QA 参考
 references/google-styleguide-reference.md Google 工程规范来源映射
 ```
-
-## 发布记录
-
-本仓库于 `2026-08-24` 新建并推送，用于保留这一版 DV M3 Design System Skill 的发布记录。
